@@ -16,4 +16,6 @@
 
 - [第8篇](https://plainsvillager.github.io/files/长沙雅礼中学.jpg)
 
+- [第9篇（Visual Studio配置GCC C++开发环境）](https://plainsvillager.github.io/blogs/9(VSC C++ GCC).html)
+
 [返回首页](https://plainsvillager.github.io/)
